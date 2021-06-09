@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Puv17dS49x98tsDufe38UBcTuVI1HP9Pcda0MheXg1vHis/7g+aTdUP1eAHa/dulggxub8b9HaK9B61kkgUmvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANDREW\\Documents\\UNN\\MIPS\\mod-task04-life\\Life\\Life.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANDREW\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
